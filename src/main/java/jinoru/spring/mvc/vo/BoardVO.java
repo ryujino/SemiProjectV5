@@ -1,4 +1,4 @@
-package siestageek.spring.mvc.vo;
+package jinoru.spring.mvc.vo;
 
 import java.io.Serializable;
 
